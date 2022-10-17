@@ -1,0 +1,1 @@
+Keep the folder empty, and the program will automatically add "test" and "train" folders
